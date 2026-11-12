@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3000-igni2f302eqwgv60z00gv.e2b.app/sitemap.xml
